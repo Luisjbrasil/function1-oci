@@ -6,7 +6,7 @@ public class HelloFunction {
 
 
         System.out.println("IFunction1 OK !!"); 
-        return "Function1 OK !!";
+        return "OK";
     }
 
 }
